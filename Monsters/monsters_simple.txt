@@ -1,0 +1,895 @@
+Name,Description
+Aatxe,Spirit that takes the form of a bull.
+Abaasy,Demons that have teeth of iron.
+Abada,Small type of unicorn reported to live in the lands of the African Congo.
+Abaia,Huge magical eel.
+Abarimon,Savage humanoid with backward feet.
+Abura-sumashi,Creature from a mountain pass in Kumamoto Prefecture.
+Acephali,Headless humanoids.
+Achlis,Curious elk.
+Adar Llwch Gwin,Giant birds that understand human languages.
+Adaro,Malevolent merfolk.
+Adhene,Nature spirit.
+Adroanzi,Nature spirit.
+Aerico,Disease demon.
+Agni,God of fire and sacrifices.
+Agathodaemon,Spirit of vinefields and grainfields.
+Agloolik,Ice spirit that aids hunters and fishermen.
+Ahkiyyini,Animated skeleton that causes shipwrecks.
+Ahlden Gentree,Demon with enormous jaw.
+Aigamuxa,Anthropophagous humanoid with eyes in its instep.
+Airavata,Divine Elephant.
+Aitu,Malevolent spirits or demons.
+Aitvaras,Household spirit.
+Ajatar,Dragon.
+Akka,Female spirits or minor goddesses.
+Akki,Large; grotesque humanoid.
+Akkorokamui,Sea monster.
+Akuma,Evil spirit.
+Akupara,Giant turtle that supports the world.
+Al,Spirit that steals unborn babies and livers from pregnant women.
+Ala,Bad weather demon.
+Alal,queen of the full moon.
+Alan,Winged humanoid that steals reproductive waste to make children.
+Alce,Wingless griffin.
+Aleya,Spirit of a dead fisherman.
+Alicanto,Bird that eats gold and silver.
+Alkonost,Angelic bird with human head and breasts.
+Almas,Savage humanoid.
+Aloja,Female water spirit.
+Al Rakim,Guard dog of the Seven Sleepers.
+Alseid,Grove nymph.
+Alu,Leprous demon.
+Alux,Little people.
+Amaburakosagi,Ritual disciplinary demon from Shikoku.
+Amala,Giant who holds up the world.
+Amamehagi,Ritual disciplinary demon from Hokuriku.
+Amanojaku,Small demon.
+Amarok,Giant wolf.
+Amarum,Water boa spirit.
+Amemasu,Lake monster.
+Ammit,Female demon with a body that was part lion; hippopotamus and crocodile.
+Amoronagu,Tennyo from the island of Amami Oshima.
+Amphiptere,Winged serpent.
+Amphisbaena,Serpent with a head at each end.
+Anak,Giant.
+Angel,From the Greek angelos; divine beings of Heaven who act as mediators between God and humans; the counterparts of Demons.
+Ani Hyuntikwalaski,Lightning spirit.
+Ankou,Skeletal grave watcher with a lantern and a scythe.
+Anmo,Ritual disciplinary demon from Iwate Prefecture.
+Antaeus,Giant who was extremely strong as long as he remained in contact with the ground.
+Anubis,God of the Underworld
+Antero Vipunen,Subterranean giant.
+Ao Ao,Anthropophagous peccary or sheep.
+Aobozu,Blue monk who kidnaps children.
+Apsaras,Female cloud spirit.
+Arion,Extremely swift horse with a green mane and the power of speech.
+Arkan Sonney,Fairy hedgehog.
+Asag,Hideous rock demon.
+Asakku,Demon.
+Asiman,Vampiric possession spirit.
+Askefrue,Female tree spirit.
+Asobibi,Spectral fire from Kochi Prefecture.
+Asrai,Water spirit.
+Astomi,Humanoid sustained by pleasant smells instead of food.
+Atomy,Surprisingly small creature.
+Atshen,Anthropophagous spirit.
+Auloniad,Pasture nymph.
+Avalerion,King of the birds.
+Ayakashi,Sea serpent that travels over boats in an arc while dripping oil.
+Aziza,Little people that help hunters.
+Azukiarai,Spirit that washes azuki beans along riversides.
+Azukitogi,Spirit that washes azuki beans along riversides.
+Baba Yaga,Forest spirit and hag
+Backoo,Malevolent little people
+Bagiennik,Malevolent water spirit
+Bahamut,Giant fish
+Bardha,Mountain spirit
+Bar Juchne,Bird
+Bai Ze,Talking beast which handed down knowledge on harmful spirits
+Ba Jiao Gui,Banana tree spirit
+Bakeneko,Magical cat
+Bakezori,Animated straw sandal
+Bakhtak,Night demon
+Bakunawa,Sea serpent that causes eclipses
+Bannik,Bathhouse spirit
+Banshee,Death spirit
+Baobhan Sith,Beautiful vampiric seductresses who prey on young travelers
+Bardi,Shapechanging death spirit
+Barghest,black dog
+Bar Juchne,Gigantic bird
+Barnacle Geese,Geese which hatch from barnacles
+Barong,Tutelary spirit
+BasCelik,Powerful; evil winged man whose soul is not held by his body and can be subdued only by causing him to suffer dehydration
+Bathala,Primordial god of creation
+Batsu,Drought spirit
+Baubas,Malevolent spirit
+Baykok,Flying skeleton
+Bean Nighe,Death spirit; a type of Banshee/Bean Sidhe
+Behemoth,Massive beast; possibly like a dinosaur or crocodile
+Bendigeidfran,Giant king
+Berehynia,Water spirit
+Bergsra,Mountain spirit
+Bestial beast,Centauroid specter
+Bhuta,Ghost of someone killed by execution or suicide
+Bies,Demon
+Binbogami,Spirit of poverty
+Black Dog,Canine death spirit
+Black Shuck,black dog
+Blemmyae,Headless humanoid with face in torso
+Bloody Bones,Water bogeyman
+Blue Crow,Giant amazonian bird.
+Bodach,Malevolent spirit
+Bogeyman,Malevolent spirit
+Boggart,Malevolent household spirit
+Boginki,Nature spirit
+Bogle,Malevolent spirit
+Bolla,Dragon
+Boobrie,Roaring water bird
+Bozaloshtsh,Death spirit
+Brag,Malevolent water horse
+Brownie,Benevolent household spirit
+Broxa,Nocturnal bird that drains goats of their milk
+Bugbear,Bearlike goblin
+Bugul Noz,Extremely ugly; but kind; forest spirit
+Bush Dai Dai,Spirit that seduces and kills men
+Bysen,Diminutive forest spirit
+Cabeiri,Smith and wine spirit
+Caladrius,White bird that can foretell if a sick person will recover or die
+Callitrix,Apes who always bear twins; one the mother loves; the other it hates
+Calydonian Boar,Giant; chthonic boar
+Cambion,Offspring of a human and an incubus or succubus; general term for any kind of human/demon hybrid
+Camulatz,Bird that ate the heads of the first men
+Candileja,Spectral; fiery hag
+Canotila,Little people and tree spirits
+Chapa,Beaver spirit
+Capcaun,Large; monstrous humanoid
+Carbuncle,Small creature with a jewel on its head
+Cat Sidhe,Fairy cat
+Ceffyl Dwr,Malevolent water horse
+Cerastes,Extremely flexible; horned snake
+Cercopes,Mischievous forest spirit
+Cericopithicus,Apes who always bear twins; one the mother loves; the other it hates
+Ceryneian Hind,Hind with golden antlers and bronze or brass hooves
+Cetan,Hawk spirit
+Chakora,Lunar bird
+Chaneque,Little people and nature spirits
+Charybdis,Sea monster in the form of a giant mouth
+Chepi,Ancestral spirit that instructs tribe members
+Chibaiskweda,Ghost of an improperly buried person
+Chindi,Vengeful ghost that causes dust devils
+Chochinobake,Animated paper lantern
+Chol,Regenerative bird
+Chollima,Supernaturally fast horse
+Chonchon,Disembodied; flying head
+Choorile,Ghost of a woman that died in childbirth
+Chromandi,Hairy savage with dog teeth
+Chrysaor,Son of the gorgon Medusa; imaged as a giant or a winged boar
+Chrysomallus,Golden haired winged ram
+Chukwa,Giant turtle that supports the world
+Chupacabra,Cryptid beast; named for its habit of sucking the blood of goats and other livestock
+Churel,Vampiric; female ghost
+Ciguapa,Malevolent seductress
+Cihuateteo,Ghost of women that died in childbirth
+Cikavac,Bird that serves its owner
+Cinnamon bird,Giant bird that makes its nest out of cinnamon
+Cirein croin,Sea serpent
+Coblynau,Little people and mine spirits
+Cofgod,Cove god
+Corycian nymphs,Nymph of the Corycian Cave
+Cretan Bull,Monstrous bull
+Crinaeae,Fountain nymph
+The Cu Bird,El Pajaro Cu; a bird.
+Cuco,Bogeyman
+Cucuy,Malevolent spirit
+Cuelebre,Dragon
+Curupira,Nature spirit
+Cu Sith,Gigantic fairy dog
+Cwn Annwn,Underworld hunting dog
+Cyhyraeth,Death spirit
+Dactyl,Little people and smith and healing spirits
+Daemon,Incorporeal spirit
+Dahu,Like a deer or ibex with legs on one side of its body are shorter than on the other side
+Daidarabotchi,Giant responsible for creating many geographical features in Japan
+Daitengu,Most powerful class of tengu; each of whom lives on a separate mountain
+Daitya,Giant.
+Danava,Water demon.
+Daphnaie,Laurel tree nymph.
+Dead Sea Apes,Human tribe turned into apes for ignoring Moses' message.
+Deity,Preternatural or supernatural possibly immortal being.
+Demon,From the Greek daimon; chthonic entities of Hell often seen as Satan's minions who are inimical to mankind; the counterparts of Angels.
+Demigod,Half human; half god.
+Dhampir,Human/vampire hybrid.
+Diao Si Gui,Hanged ghost.
+Dilong,Earth dragon.
+Dip,Demonic and vampiric dog.
+Di Penates,House spirit.
+Dipsa,Extremely poisonous snake.
+Dirawong,Goanna spirit.
+Di sma undar jordi,Little people and nature spirits.
+Diwata,Tree spirit.
+Dokkaebi,Grotesque; horned humanoids.
+Dokkalfar,Male ancestral spirits; the Dark Elves.
+Dola,Tutelary and fate spirit.
+Domovoi,House spirit.
+Doppelganger,Ghostly double.
+Drac,Winged sea serpent.
+Drakon,Greek dragons.
+Drakaina,Dragons depicted with female characteristics.
+Draugr,Undead.
+Drekavac,Restless ghost of an unbaptised child.
+Drow,Cavern spirit.
+Drude,Possessing demon.
+Druk,Dragon.
+Dryad,Tree nymph.
+Duende,Little people and forest spirits.
+Duergar,Malevolent little people.
+Dullahan,Headless death spirit.
+Duwende,Little people; some are house spirits; others nature spirits.
+Dvergr,Subterranean little people smiths.
+Dvorovoi,Courtyard spirit.
+Dwarf,Little people nature spirits.
+Engkanto,Neutral nature spirit
+Fachen,Monster with half a body
+Fafnir,Dwarf who was cursed and turned into a Dragon. Later slain by Sigurd in the Saga ofNibelung.
+Fairy,Nature spirits
+Familiar,Animal servant
+Far darrig,Little people that constantly play pranks
+Fear gorta,Hunger ghost
+Feathered Serpent,dragon
+Fei Lian,Chinese god of the wind
+Fenghuang,Chinese Phoenix; female in marriage symbol
+Fenodyree,House spirit
+Fenrir,Gigantic; ravenous wolf
+Fetch,Double or doppelganger
+Fext,Undead
+Fir Bolg,Ancestral race
+Fire Bird,Regenerative; solar bird
+Firedrake,Dragon
+Forest Bull,Giant; red cattle with swiveling horns
+Freybug,black dog
+Fuath,Malevolent water spirit
+Fucanglong,Underworld dragon
+Funayurei,Ghosts of people who drowned at sea
+Fylgja,Animal familiar
+Gaasyendietha,Dragon
+Gagana,Bird with iron beak and copper talons
+Gaki,Ghosts of especially greedy people
+Gallu,Underworld demons
+Galtzagorriak,Diminutive; demonic servants
+Gamayun,Prophetic bird with human head
+Gana,Attendants of Shiva
+Gancanagh,Male fairy that seduces human women
+Gandharva,Male nature spirits; often depicted as part human; part animal
+Gargouille,Water dragon
+Garmr,Giant; ravenous hound
+Gashadokuro,Giant; malevolent skeletons
+Gaueko,Wolf capable of walking upright
+Ged,The fish pike
+Genie,Elemental spirit
+Genius loci,Spirit that protects a specific place
+German,Male spirit associated with bringing rain and hail
+Ghillie Dhu,Tree guardian
+Ghost,Disembodied spirits; specifically of those that have died
+Ghoul,Earth genie. Also a shape shifting desert anthropophagus; often classified as undead.
+Giant,Humanoid creatures of immense size and strength
+Giant animal,Unusually large beasts
+Gidim,Ghost
+Gigelorum,Smallest animal
+Gjenganger,Corporeal ghost
+Glashtyn,Malevolent water horse
+Gnome,Diminutive Earth elemental
+goatogo dragon,a feared goat with wings that attack in packs of 25 to 700
+Goblin,Grotesque; mischievous little people
+Gog,Giant protector of London
+Golem,Animated construct
+Gorgades,Hairy humanoid
+Goryo,Vengeful ghosts; usually of martyrs
+Gremlin,Goblins that sabotage airplanes
+Grigori,Fallen angels; father of Nephilim
+Grim,Tutelary spirits of churches
+Grim Reaper,An angel of death; often thought to be God's/Satan's assistant
+Grindylow,Malevolent water spirit
+Gualichu,Malevolent spirit
+Guardian angel,A subclassification of angels that guard and protect a specific person or any living being
+Guhin,Anthropomorphic bird
+Gui Po,Ghost that manifests as an old woman
+Gui Shu,Ghostly tree that confuses travelers by moving
+Gumiho,Demon fox with thousands of tails. Believed to possess an army of spirits and magic in its tails.
+Gwyllgi,black dog
+Gwyllion,Malevolent spirit
+Gytrash,black dog
+Habrok," The ""best"" hawk"
+Hadhayosh,Gigantic land animal
+Hag,Wizened old woman; usually a malevolent spirit with this specific form; or a goddess in disguise
+Hakutaku,Talking beast which handed down knowledge on harmful spirits
+Hakuturi,Nature guardian
+Haltija,Spirit that protects a specific place
+Hamadryad,Oak tree nymph
+Hamingja,Personal protection spirit
+Hamsa,Mystical bird
+Hantu Air,Shapeshifting water spirit
+Hantu Demon,Demon
+Hantu Raya,Demonic servant
+Harionago,Humanoid female with barbed; prehensile hair
+Harpy,Death spirit with the form of a bird with a human head
+Haugbui,Undead who cannot leave its burial mound
+Havsra,Saltwater spirit
+Headless Horseman,Humanoid spirit who haunts or kills
+Hecatonchires,Primordial giants with 100 hands and fifty heads
+Heinzelmannchen,Household spirit
+Helead,Fen nymph
+Hellhound,Dog from underworld
+Heracles,Gatekeeper of Olympus
+Hercinia,Glowing bird
+Herensuge,Dragon
+Hesperides,Nymph daughters of Atlas
+Hidebehind,Nocturnal forest creature
+Hiderigami,Drought spirit
+Hihi,Baboon monster
+Hiisi,Nature guardian
+Hitodama,Ghosts of the newly dead; which take the form of fireballs
+Hob,House spirit
+Hobbididance,Malevolent spirit
+Hobgoblin,Friendly or amusing goblin
+Hodag,Part frog; part mammoth; part lizard; from Native American mythology
+Hokhokw,Bird
+Homunculus,Diminutive; animated construct
+Hoopoe,Near passerine bird common to Africa and Eurasia that features in many mythologies in those continents
+Horned Serpent,Serpentine rain spirit
+Hotoke,Deceased person
+Houri,Heavenly beings
+Hraesvelg,Giant; who in eagle form; creates the wind by beating his wings
+Hrimthursar,Frost Giants who are the main inhabitants of either Jotunheim or Niflheim
+Hugin and Munin,Thought and Memory; a pair of ravens associated with the Norse god Odin
+Huldra,Forest spirit
+Huma,Regenerative fire bird
+Hundun,Chaos spirit
+Hupia,Nocturnal ghost
+Hyakume,Creature with a hundred eyes
+Hydros,Snake whose poison causes the victim to swell up
+Hydrus,Snake from the Nile River that would kill crocodiles from the inside
+Hypnalis,Snake that kills its victims in their sleep
+Iara,Female water spirit
+Ibong Adarna,Bird that changes color each time it finishes a song
+Iele,Female nature spirits
+Ifrit,Fire genie
+Ijiraq,Spirit that kidnaps children
+Ikiryo,Can be considered a 'living ghost'; as it is a person's spirit outside their body
+Ikuchi,Sea serpent that travels over boats in an arc while dripping oil
+Imp,Diminutive; demonic servant
+Impundulu,Avian; vampiric lightning spirit
+Indus Worm,Giant; white; carnivorous worm
+Inugami,Dog spirit
+Iratxoak,Diminutive; demonic servants
+Irin,Fallen angels
+Ishigaq,Little people
+Jackalope,Rabbit with antlers
+Jaculus,Winged serpent or small dragon
+Jasy Jaterei,Nature guardian and bogeyman
+Jaud,Vampirised premature baby
+Jenglot,Vampiric little people
+Jengu,Water spirit
+Jenu,Anthropophagous giant
+Jersey Devil,Demonic dragon that was given birth to by an American living in New Jersey
+Jiaolong,Dragon
+Jibakurei,Spirit that protects a specific place
+Jievaras,House spirit
+Jinn,Spiritual creatures; genii
+Jogah,Little people nature spirit
+Jormungandr,Sea serpent
+Jorogumo,Spider woman
+Jotai,Animated folding screen cloth
+Jotunn,Gigantic nature spirits
+Jujak,Bird
+Jumbee,Malevolent spirit
+Kabouter,Little people that live underground; in mushrooms; or as house spirits
+Kachina,Nature spirit
+Kahaku,Little people and water spirits
+Kajsa,Wind spirit
+Kalakeyas,Descendents of Kala
+Kallikantzaroi,Grotesque; malevolent spirit
+Kamaitachi,Wind spirit
+Kamatayan,Philippine counterpart of Death
+Kami,Nature spirit
+Kanbo,Drought spirit
+Kanedama,Money spirit
+Kappa,Little people and water spirits
+Kapre,Malevolent tree spirit
+Karkinos,Giant crab
+Karzelek,Little people and mine spirits
+Kashanbo,Kappa who climb into the mountains for the winter
+Kaukas,Nature spirit
+Keelut,Hairless dog
+Kekkai,Amorphous afterbirth spirit
+Kelpie,Malevolent water horse
+Ker,Female death spirit
+Keukegen,Disease spirit
+Keythong,Wingless griffin
+Kijimunaa,Tree sprite from Okinawa
+Kikimora,Female house spirit
+Killmoulis,Ugly; mischievous mill spirit
+Kirin,Japanese Unicorn
+Kitsune,Fox spirit
+Klabautermann,Ship spirit
+Knocker,Cornish and Welsh
+Knucker,Water dragon
+Kobold,Little people and mine or house spirits
+Kodama,Tree spirit
+Kofewalt,House spirit
+Kokakucho,Ubume bird
+Komainu,Protective animal
+Kongamoto,Flying creature
+Korrigan,Little people and nature spirits
+Kraken,Sea monster
+Krasnoludek,Little people nature spirits
+Krasue,Vampiric; floating head
+Kuarahy Jara,Forest spirit
+Kumakatok,Death spirits
+Kumiho,Fox spirit
+Kun,Giant fish
+Kupua,Shapeshifting tricksters
+Kurabokko,Guardian spirit of a warehouse
+Kurma,Second avatar of Vishnu in the form of a Turtle
+Kurupi,Wild man and fertility spirit
+Kushtaka,Shapeshifting otter spirit
+Kwakwakalanooksiwae,Bird
+Kyourinrin,Animated scroll or paper
+Kyuketsuki,Vampire
+Labbu,Sea snake
+Lady midday,Sunstroke spirit
+Ladon,Dragon guarding the golden apples of the Hesperides
+Laelaps,Enchanted dog that always caught his prey
+Laestrygonians,Anthropophagic giants
+Lakanica,Field spirit
+Lake monster,Gigantic animals reputed to inhabit various lakes around the world
+Lakhey,Demon with fangs
+La Llorona,Death spirit associated with drowning
+Lamassu,Protective spirit with the form of a winged bull or lion with a human head
+Lambton Worm,Giant worm
+Lamiak,Water spirit with bird feet
+La Mojana,Shapeshifting; female water spirit
+Lampades,Underworld nymph
+Landvaettir,Nature spirits
+Lares,House spirit
+La Sayona,Female ghost that punishes unfaithful husbands
+La Tunda,Nature spirit that seduces and kills men
+Lava bear,Miniature bear thought to inhabit the lava beds of south central Oregon
+Lauku dvasios,Field spirit
+Lauma,Sky spirit
+Lavellan,Gigantic water rat
+Leanan sidhe,Fairy lover
+Leanashe,Possessing spirit or vampire
+Leimakids,Meadow nymph
+Leontophone,Tiny animal poisonous to lions
+Leprechaun,Cobbler spirit
+Leszi,Tree spirit
+Leuce,White poplar tree nymph
+Leucrota,Hybrid of a lion and crocotta
+Leviathan,Sea monster; as seen in Job 41
+Leyak,Anthropophagous flying head with entrails
+Liderc,Magical chicken that transforms into a humanoid
+Lightning Bird,Magical bird that can be found at sites of lightning strikes
+Lilitu,Winged demon
+Limnades,Lake nymph
+Lindworm,Dragon
+Ljosalfar,Sunlight spirits; the Light Elves
+Long,Dragon
+Loogaroo,Shapeshifting; female vampire
+Lubber fiend,House spirit
+Luison,Death spirit
+Lusca,Sea Monster
+Lutin,Amusing goblin
+Lynx,Feline guide spirit
+Maal,Malevolent ghostly mermaid
+Machlyes,Hermaphroditic humanoid
+Madremonte,Nature guardian
+Maero,Savage; arboreal humanoids
+Magog,Giant protector of London
+Majas gari,Benevolent house spirit
+Makara,Aquatic beings
+Mami Wata,Supernaturally beautiful water spirits
+Manananggal,Vampires that sever their torsos from their legs to fly around
+Mandrake,Diminutive; animated construct
+Manes,Ancestral spirits
+Mannegishi,Little people with six fingers and no noses
+Mapinguari,Giant sloth
+Marabbecca,Malevolent water spirit
+Marid,Jinn associated with open waters of the seas and oceans
+Maro deives,Disease spirits
+Matagot,Spirit that takes animal form; usually that of a black cat
+Mayura,Peacock spirit
+Mazikeen,Invisible; malevolent spirit
+Mbwiri,Possessing demon
+Meliae,Ash tree nymph
+Melusine,Female water spirit; with the form of a winged mermaid or serpent
+Menehune,Little people and craftsmen
+Menninkainen,Little people and nature spirits
+Merlion,Combination of a lion and a fish; the symbol of Singapore
+Mimi,Extremely elongated humanoid that has to live in rock crevasses to avoid blowing away
+Minka Bird,Death spirit
+Minokawa,Giant swallow
+Mishibizhiw,Feline water spirit
+Mizuchi,Water dragon
+Mngwa,Gigantic; ferocious nocturnal feline
+Mogwai,Vengeful ghost or demon
+Mohan,Nature spirit
+Mokoi,Malevolent spirit that kills sorcerers
+Monai,Giant snake with antennae
+Mono Grande,Giant monkey
+Monopod,Dwarf with one giant foot
+Mooinjer veggey,Nature spirit
+Mora,Disembodied spirit
+Morgens,Water spirits
+Mormolykeia,Underworld spirit
+Moroi,Vampiric ghost
+Moss people,Little people and tree spirits
+Mujina,Shapeshifting badger spirit
+Muldjewangk,Water monster
+Multo,Spirit of a deceased person seeking justice or has unfinished business
+Muse,Spirits that inspire artists
+Myling,Ghosts of unbaptized children
+Nachzehrer,Anthropophagous undead
+Naga fireballs,Spectral fire
+Naiad,Freshwater nymph
+Nakki,Water spirit
+Namahage,Ritual disciplinary demon from the Oga Peninsula
+Namazu,Giant catfish whose thrashing causing earthquakes
+Nang Takian,Tree spirit
+Napaeae,Grotto nymph
+Narecnitsi,Fate spirit
+Nariphon,Pod people
+Nargun,Water monster
+Nav',Ghost
+Nawao,Savage humanoid
+Neck,Female water spirit
+Negret,Little people that turn into coins
+Nekomusume,Cat in the form of a girl
+Nemean Lion,Lion with impenetrable skin
+Nephilim,Gigantic sons of Grigori and human women
+Nereid,Nymph daughters of Nereus
+Ngen,Nature spirit
+Nian,Predatory animal
+Nightmarchers,Warrior ghosts
+Nikusui,Monster which appears as a young woman and sucks all of the flesh off of its victim's body
+Nimerigar,Aggressive little people
+Ninki Nanka,Large reptile; possibly a dragon
+Nisse,House spirit
+Nidhoggr,Dragon
+Nivatakavachas,Ocean demon
+Nix,Female water spirit
+Nobusuma,Supernatural wall; also a monstrous flying squirrel
+Nocnitsa,Nightmare spirit
+Nozuchi,Small sea serpent
+Nu Gui,Vengeful female ghost
+Nukekubi,Disembodied; flying head that attacks people
+Numen,Tutelary spirit
+Nuno,Malevolent little people
+Nuppeppo,Animated chuck of dead flesh
+Nurikabe,Spirit that manifests as an impassable; invisible wall
+Nykstukas,Cavern spirit
+Nymph,Nature spirit
+Obake,Shapeshifting spirits
+Obariyon,Spook which rides piggyback on a human victim and becomes unbearably heavy
+Obayifo,Vampiric possession spirit
+Obia,Gigantic animal that serves witches
+Oceanid,Nymph daughters of Oceanus
+Odei,Storm spirit
+Odmience,Changeling
+Og,Giant king of the Amorites
+Ogre,Large; grotesque humanoid
+Oiwa,Ghost of a woman with a distorted face who was murdered by her husband
+Ojancanu,Giant cyclops who embodies evil.
+Okubi,Death spirit
+Oni,Large; grotesque humanoid demon; usual having red skin and horns
+Onibi,Spectral fire
+Onoskelis,Shapeshifting demon
+Onryo,Vengeful ghost that manifests in a physical rather than a spectral form
+Onza,Wild cat; possibly a subspecies of cougar
+Oozlum bird,Bird that flies backwards
+Orang Bunian,Forest spirit
+Orang Minyak,Spectral rapist
+Ordog,Shapeshifting demon
+Oread,Mountain nymph
+Ork,Little people and house spirits
+Osiris,God of the dead and the judge of the underworld
+Oshun,God of love and fertility
+Otso,Bear spirit
+Ouroboros,Mystic serpent/dragon that eats its own tail
+Ovinnik,Malevolent threshing house spirit
+Paasselka devils,Spectral fire
+Pamola,Weather spirit
+Pandi,Humanoid with giant ears; eight fingers and toes; and white hair
+Panis,Demons with herds of stolen cows
+Panlong,Water dragon
+Panotti,Humanoid with gigantic ears
+Panther,Feline with sweet breath
+Parandrus,Shapeshifting animal whose natural form was a large ruminant
+Pard,Fast; spotted feline believed to mate with lions to produce leopards
+Patagon,Giant race reputed to live in the area of Patagonia
+Pech,Strong little people
+Pegaeae,Spring nymph
+Pegasus,Winged horse
+Pegacorn,Pegasus combined with a unicorn
+Pelesit,Servant spirit
+Peluda,Dragon
+Penanggalan,Vampires that sever their heads from their bodies to fly around; usually with their intestines or other internal organs trailing behind
+Peng,Giant bird
+Penghou,Tree spirit
+Peri,Winged humanoid
+Pesanta,Nightmare demon in the form of a cat or dog
+Peuchen,Vampiric; flying; shapeshifting serpent
+Phi Tai Hong,Ghost of a person who has died suddenly of a violent or cruel death in Thai folklore
+Phoenix,Regenerative bird
+Piatek,Large land animal
+Pictish Beast,Stylistic animal; possibly a dragon
+Pillan,Nature spirit
+Piru,Minor demon
+Pixie,Little people and nature spirits
+Pixiu,Winged lion
+Plakavac,Vampire created when a mother strangles her child
+Polevik,Little people and field spirits
+Polong,Invisible servant spirit
+Poltergeist,Ghost that moves objects
+Pombero,Wild man and nature spirit
+Ponaturi,Grotesque; malevolent humanoid
+Pontianak,Undead; vampiric women who died in childbirth
+Poukai,Giant bird
+Preta,Ghosts of especially greedy people
+Psotnik,Mischievous spirit
+Psychopomp,Creatures; spirits; angels; or deities in many religions whose responsibility is to escort newly deceased souls from Earth to the afterlife
+Pterippus,Winged horse
+Puca,Shapeshifting animal spirit
+Puki,Malevolent little person
+Puck,House spirit
+Putz,House spirit
+Pugot,Headless humanoid
+Puk,House spirit
+Pukis,Malevolent house spirit
+Pygmy,Little people
+Python,Serpentine dragon
+Qalupalik,Aquatic human abductor
+Qiqirn,Large; bald dog spirit
+Qliphoth,Evil spirits
+Quetzalcoatl," Important god of the Aztec people; name meaning ""feathered serpent""; not to be confused with the quetzal; which is a type of bird"
+Ra,Spirit that protects a specific place
+Rabisu,Vampiric spirit that ambushes people
+Radande,Tree spirit
+Ragana,Malevolent witch
+Raiju,Lightning spirit
+Rain Bird,Rain spirit
+Rainbow crow,Crow spirit
+Rainbow Serpent,Snake
+Rakshasa,Shapeshifting demon
+Rarog,Whirlwind spirit
+Raven Spirit,Trickster spirit
+Ratatoskr,Squirrel spirit
+Redcap,Malevolent; grotesque humanoid
+Re'em,Gigantic land animal
+Reichsadler,Eagle; sometimes depicted with two heads
+Rephaite,Giant
+Revenant,Reanimated dead
+Roc,Gigantic bird
+Rompo,Skeletal creature with elements of a rabbit; badger; and bear
+Rusalka,Female water spirit
+Ryu,dragon
+Sagari,Horse's head that dangles from trees on Kyushu
+Salamander,Fire elemental
+Samodiva,Nature spirit
+Santelmo,Spirits in a form of fireball; roaming around the forest
+Sanziana,Nature spirit
+Sarimanok,Bird of good fortune
+Sarngika,Bird spirit
+Sarugami,Wicked monkey spirit which was defeated by a dog
+Satyrus,Apes who always bear twins; one the mother loves; the other it hates
+Sceadugenga,Shapeshifting undead
+Scitalis,Snake which mesmerizes its prey
+Sea monster,Giant; marine animals
+Sea serpent,Serpentine sea monster
+Seko,Water spirit which can be heard making merry at night
+Seps,Snake with highly corrosive venom
+Serpent,Snake spirit
+Shade,Spiritual imprint
+Shadow People,Malevolent ghost
+Shahbaz,Giant eagle or hawk
+Shaitan Islam,Similar to Lucifer from the Bible
+Shedu,Protective spirit with the form of a winged bull or lion with a human head
+Shellycoat,Water spirit
+Shen,Shapeshifing sea monster
+Shenlong,Weather dragon
+Shibaten,Water spirit from Shikoku
+Shikome,Underworld hag
+Shinigami," ""Death god"""
+Shirouneri,Animated mosquito netting or dust cloth
+Shiryo,Spirit of a dead person
+Shishi,Protective animal
+Shokera,Creature that peers in through skylights
+Shtriga,Evil or dangerous witch
+Shui Gui,Drowned ghost
+Shug Monkey,Dog/monkey
+Simargl,Winged dog
+Singa,Feline animal
+Sint Holo,Serpentine rain spirit
+Sirrush,Dragon with aquiline hind legs and feline forelegs
+Sjora,Freshwater spirit
+Sjovaettir,Sea spirit
+Skogsra,Forest spirit
+Skookum,Hairy giant
+Skrzak,Flying imp
+Sky Women,Weather spirit
+Sluagh,Restless ghost
+Soragami,Ritual disciplinary demon
+Sorobanbozu,Ghost with an abacus
+Sotangitsune,Fox spirit from Kyoto
+Soucouyant,Vampiric hag who takes the form of a fireball at night
+Spectre,Terrifying ghost
+Sphinx,Winged lion with a woman's head
+Spiridus,Little people
+Spirit,Ghosts
+Spriggan,Guardians of graveyards and ruins
+Sprite,little people; ghosts or elves
+Squonk,Ugly and lonely creature capable of evading capture by dissolving itself into a pool of tears
+Strigoi,Vampire
+Strix,Vampiric bird
+Struthopodes,Humanoid whose males have enormous feet; and females have tiny feet
+Strzyga,Vampiric undead
+Stuhac,Malevolent mountain spirit
+Stymphalian Bird,Metallic bird
+Suangi,Anthropophagous sorcerer
+Sudice,Fortune spirit
+Surma,Hellhound
+Suzaku,Japanese version of the Chinese Vermillion Bird
+Svadilfari,Unnatural strong horse; father of Sleipnir
+Svartalfar,Cavern spirits; the Black Elves
+Sylph,Air elemental
+Sylvan,Forest spirit
+Syrbotae,African giant
+Syrictae,Reptilian humanoid
+Tachash,Large land animal
+Taimatsumaru,Tengu surrounded in demon fire
+Takam,Nature spirit
+Talos,Winged giant made of bronze
+Tangie,Shapeshifting water spirit
+Taniwha,Water spirit
+Tantankororin,Unharvested persimmon which becomes a monster
+Tanuki,Shapeshifting raccoon dog
+Taotao Mona,Ancestral spirits
+Taotie,Greed spirit
+Tapairu,Nature spirit
+Tarasque,Dragon with leonine; turtle; bear; and human attributes
+Tartaruchi,Demonic punisher
+Tatsu,Japanese dragon
+Teju Jagua,Lizard with seven dog heads
+Tecumbalam,Bird
+Tengu,Anthropomorphic bird
+Tennin,Angelic humanoid
+Tepegoz,Azerbaijani mythical creature similar to the cyclops Polyphemus
+Teumessian Fox,Gigantic fox
+Thunderbird,Avian lightning spirit; bird
+Tiangou,Meteoric dog
+Tianlong,Celestial dragon
+Tibicena,Evil Dog
+Tiddy Mun,Bog spirit
+Tigmamanukan,Asian fairy bluebird believed in as part of Philippine mythology
+Tigris,Giant lion
+Tikbalang,Anthropomorphic horse
+Tikoloshe,Little people and water spirit
+Timingila,Sea monster
+Tipua,Spirit that protects a specific place
+Titan,Giant
+Tiyanak,Demons that are formerly souls of dead unbaptized babies
+Tizheruk,Sea serpent
+Tlahuelpuchi,Shapeshifting vampire
+Tomte,House spirit
+Topielec,Water spirit
+Totetsu,Greed spirit
+Toyol,Servant spirit
+Trasgo,Grotesque; mischievous little people
+Trauco,Fertility spirit
+Trenti,Diminutive demon
+Trickster,A character in a story which exhibits a great degree of intellect or secret knowledge; and uses it to play tricks or otherwise disobey normal rules and conventional behaviour
+Tripurasura,Demonic inhabitants of Tripura
+Troll,Nature spirit
+Trow,Little people and nature spirits
+Tsuchigumo,Shapeshifting; giant spider
+Tsukumogami,Inanimate object that becomes animated after existing for 100 years
+Tsul 'Kalu,Giant nature spirit
+Tugarin Zmeyevich,Evil shapeshifter
+Tylwyth Teg,Nature spirit
+Tupilaq,Animated construct
+Turehu,Pale spirit
+Turul,Giant falcon that helped shape the origins of the Magyars
+Tzitzimitl,Skeletal star spirit
+Ubume,Ghosts of women who died in childbirth
+Umibozu,Ghost of drowned priest
+Undead,Dead that behave as if alive
+Underwater panther,Feline water spirit
+Undine,Water elemental
+Unhcegila,Dragon
+Unicorn,Horse with magical healing horn.
+Unktehi,Serpentine rain spirit
+Unktehila,Reptilian water monster
+Upinis,River spirit
+Urayuli,Hairy giant
+Urias,Giant
+Utukku,"Underworld messenger spirit"
+Uwan,Spirit that shouts to surprise people
+Vadatajs,Spirit that misleads people
+Vaettir,Nature spirit
+Valkyrie,Female spirit that leads souls of dead warriors to Valhalla
+Valva,Female nature spirit
+Valravn,Supernatural raven
+Vampire,Reanimated corpse that subsists on blood
+Vantoase,Female weather spirit
+Varaha,Third Avatar of Vishnu in the form of a boar
+Varcolac,Vampire or werewolf
+Vardoger,Ghostly double
+Vedrfolnir,Hawk sitting between the eyes of an eagle in the crown of Yggdrasill; the World Tree
+Veli,Ghost; shade; formed after a death of a human
+Veri Selen,dragon
+Vetala,Corpses possessed by vampiric spirits
+Vibria,Dragon with breasts and an eagle's beak
+Vila,Weather spirit
+Virunas,Handsome demon
+Vision Serpent,Mystical dragon
+Vidopnir;,Rooster that sits atop the tree
+Vodyanoy,Male water spirit
+Waldgeist,Forest spirit
+Wanyudo,Demon in the form of a burning ox cart with a human head
+Warg,Giant; demonic wolf
+Warlock,A man who practices magic
+Water monkey,Water spirit
+Water sprite,Water elemental
+Weisse Frauen,Female spirit
+Wekufe,Demon
+Wendigo,Anthropophagous spirit
+Wentshukumishiteu,Water spirit
+White Lady,Ghost of a murdered or mistreated woman
+Witch,Person who practices magic
+Witte Wieven,Female; ancestral spirit
+Wondjina,Weather spirit
+Wraith,Water spirit or ghostly apparition
+Wu Tou Gui,Beheaded ghost
+Wyrm,dragon
+Wyvern,Flying reptile; usually with two legs and two wings
+Xana,Female water spirit
+Xecotcovach,Bird
+Xelhua,Giant
+Xing Tian,Headless giant
+Xiuhcoatl,Drought spirit
+Xindhi,Elves
+Yacumama,Sea monster
+Yacuruna,Mythical water people; with backwards heads and feet
+Yadokai,Malevolent; nocturnal spirit
+Yaksha,Male nature spirit
+Yakshi,Vampire
+Yakshini,Female nature spirit
+Yanari,Spirit which causes strange noises
+Yaoguai,Animalistic demon
+Yeth hound,Headless dog
+Yeti,Mountain Bigfoot
+Yilbegan,Either a dragon or a giant
+Yobuko,Mountain dwelling spirit
+Yokai,Supernatural Monster
+Yong,dragon
+Yosei,Fairy
+You Hun Ye Gui,Wandering ghost
+Yuan Gui,Distressed ghost
+Yukinko,Childlike snow spirit
+Yurei,Ghost
+Zahhak,Dragon
+Zaltys,Serpentine fertility spirit
+Zamzum,Giant
+Zana,Nature spirit
+Zduhac,Disembodied; heroic spirit
+Zeus,God of the sky; lightning; thunder; law; order; justice
+Zhu Que,Fire elemental bird
+Ziburinis,Forest spirit in the form of a glowing skeleton
+Zilant,Flying reptile with chicken legs
+Zin,Water spirits
+Ziz,Giant Bird
+Zlatorog,White deer with golden horns
+Zmeu,Giant with a habit of kidnapping young girls
+Zmiy,dragon
+Zorigami,Animated clock
+Zuijin,Tutelary spirit
