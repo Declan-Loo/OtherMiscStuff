@@ -1,3 +1,5 @@
+#Done as part of DataCamp Data Science course.
+
 from bs4 import BeautifulSoup
 import requests
 
